@@ -2,7 +2,7 @@
 ***
 
 >[!NOTE|labelVisibility:hidden|iconVisibility:hidden]
->本操作手册由[Markdowm](https://www.runoob.com/markdown/md-link.html)编写而成并使用gitbook打包,本书为演示环境教程还不完整,会持续更新,敬请期待!
+>本操作手册由[Markdowm](https://www.runoob.com/markdown/md-link.html)编写而成并使用gitbook打包,本书为演示环境,教程还不完整,会持续更新,敬请期待!
 >由于部署在GitHub访问速度可能比较慢!
 
 ## 使用教程
