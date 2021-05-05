@@ -3,8 +3,6 @@
 
 >[!NOTE|labelVisibility:hidden|iconVisibility:hidden]
 >本操作手册由[Markdowm](https://www.runoob.com/markdown/md-link.html)编写而成并使用gitbook打包,本书为演示环境教程还不完整,会持续更新,敬请期待!
-
->[!WARNING]
 >由于部署在GitHub访问速度可能比较慢!
 
 ## 使用教程
@@ -270,6 +268,7 @@ gitbook --lrport 35731 --port 4002 serve
 
 <iframe src="//player.bilibili.com/player.html?aid=715256534&bvid=BV1xQ4y1Z7dV&cid=331820331&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100% height=400> </iframe>
 
-相关操作
+>[!NOTE|labelVisibility:hidden|iconVisibility:hidden]
+>相关操作
 
 ![图片](images/3.png)
