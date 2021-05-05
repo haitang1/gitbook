@@ -1,0 +1,143 @@
+{
+    "title": "金特尔商城",
+    "author": "LiuHaitang",
+    "description": "kubernetes",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./style/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "金特尔商城": "http://easierdata.cn:8888/admin"
+        }
+    },
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+        "klipse",
+        "musicxml",
+        "include-csv",
+        "flexible-alerts",
+        "simple-page-toc",
+        "prism-themes",
+        "prism",
+        "back-to-top-button",
+        "theme-comscore",
+        "multipart",
+        "mermaid-gb3",
+        "anchors",
+        "auto-scroll-table",
+        "chapter-fold",
+        "expandable-chapters-small",
+        "toggle-chapters",
+        "advanced-emoji",
+        "code",
+        "favicon",
+        "fontsettings",
+        "klipse",
+        "-livereload",
+        "-lunr",
+        "pageview-count",
+        "page-toc-button",
+        "lightbox",
+        "sharing-plus",
+        "-sharing",
+        "splitter",
+        "-search",
+        "search-pro",
+        "tbfed-pagefooter",
+        "hide-element"
+    ],
+    "pluginsConfig": {
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-solarizedlight.css"
+            ]
+        },
+        "hide-element": {
+            "elements": [
+                ".gitbook-link"
+            ]
+        },
+        "theme-default": {
+            "showLevel": true
+        },
+        "code": {
+            "copyButtons": true
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © LiuHaitang 2021",
+            "modify_label": "本书发布时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "page-toc-button": {
+            "maxTocDepth": 2,
+            "minTocSize": 2
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": true,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "weibo",
+                "qq",
+                "qzone",
+                "douban",
+                "facebook",
+                "google",
+                "linkedin",
+                "twitter",
+                "whatsapp"
+            ]
+        },
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": true,
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "favicon": {
+            "shortcut": "assets/icon/favicon.ico",
+            "bookmark": "assets/icon/favicon.ico",
+            "appleTouch": "assets/images/logo.png",
+            "appleTouchMore": {
+                "120x120": "assets/images/logo.png",
+                "180x180": "assets/images/logo.png"
+            }
+        }
+    }
+}
