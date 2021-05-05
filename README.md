@@ -1,8 +1,11 @@
-# 金特尔商城后台管理系统操作手册
+# Gitbook书籍演示
 ***
 
 >[!NOTE|labelVisibility:hidden|iconVisibility:hidden]
->本操作手册由[Markdowm](https://www.runoob.com/markdown/md-link.html)编写而成
+>本操作手册由[Markdowm](https://www.runoob.com/markdown/md-link.html)编写而成并使用gitbook打包,本书为演示环境教程还不完整,会持续更新,敬请期待!
+
+>[!WARNING]
+>由于部署在GitHub访问速度可能比较慢!
 
 ## 使用教程
 
@@ -110,7 +113,7 @@ gitbook --lrport 35731 --port 4002 serve
 该文件主要用来存放配置信息
 ```json
 {
-    "title": "金特尔商城",
+    "title": "Demo演示",
     "author": "LiuHaitang",
     "description": "kubernetes",
     "language": "zh-hans",
@@ -123,7 +126,7 @@ gitbook --lrport 35731 --port 4002 serve
     },
     "links": {
         "sidebar": {
-            "金特尔商城": "http://easierdata.cn:8888/admin"
+            "仓库地址": "https://gitee.com/llhhtt"
         }
     },
     "pdf": {
@@ -196,7 +199,7 @@ gitbook --lrport 35731 --port 4002 serve
             "copyButtons": true
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © liuhaitang 2021",
+            "copyright": "Copyright © LiuHaitang 2021",
             "modify_label": "本书发布时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -256,6 +259,17 @@ gitbook --lrport 35731 --port 4002 serve
 
 使用 *gitbook install* 安装配置文件中的插件
 
-### 插入视频
+>[!NOTE|labelVisibility:hidden|iconVisibility:hidden]
+>相关文档请参考: [gitbook常用插件](https://www.jianshu.com/p/427b8bb066e6)
+
+## 插入视频
+
+### 嵌入了B站视频
+
+看完后感慨万千,视频类容不能全信,请理性看待.
 
 <iframe src="//player.bilibili.com/player.html?aid=715256534&bvid=BV1xQ4y1Z7dV&cid=331820331&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100% height=400> </iframe>
+
+相关操作
+
+![图片](images/3.png)

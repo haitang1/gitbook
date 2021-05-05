@@ -1,5 +1,5 @@
 {
-    "title": "金特尔商城",
+    "title": "Demo演示",
     "author": "LiuHaitang",
     "description": "kubernetes",
     "language": "zh-hans",
@@ -12,7 +12,7 @@
     },
     "links": {
         "sidebar": {
-            "金特尔商城": "http://easierdata.cn:8888/admin"
+            "仓库地址": "https://gitee.com/llhhtt"
         }
     },
     "pdf": {
